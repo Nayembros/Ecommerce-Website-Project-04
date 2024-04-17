@@ -343,3 +343,45 @@ footer p {
     text-align: center;
     color: #f2f2f2;
 }
+
+@media (max-width: 750px) { 
+    .imgbox {
+        bottom: 865px;
+        height: 50%;
+        right: 210px;
+    }
+    .SearchArea{
+        right: 145px;
+    }
+    
+.section1 img {
+    height: 290px;
+}
+.section1Button {
+    position: absolute;
+    top: 67%;
+    left: 68%;
+}
+.btn {
+    position: absolute;
+    left: 120px;
+}
+.section1 img {
+    position: absolute;
+    left: -22px;
+    bottom: -150px;
+}
+.logo a {
+    position:relative;
+    left: -50px;
+}
+.notification h3{
+    position: relative;
+    right: 60px;
+    font-size: 26px;
+}
+.notificationinput  {
+    position: relative;
+    right: 60px;
+}
+ }
